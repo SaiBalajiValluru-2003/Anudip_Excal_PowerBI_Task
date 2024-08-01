@@ -40,10 +40,4 @@ This project involves the analysis of personal expense data over a six-month per
 3. Increase Income: 
    - Explore opportunities for additional income to boost savings.
 
-## Contributors
 
-- Sai Balaji Valluru
-- Adde Rahul
-- Kanukutla Alekhya
-- Thimmapuram Surendar Goud
-- Karthik
