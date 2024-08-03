@@ -35,11 +35,6 @@ To explore the analyses and visualizations:
 1. Download the relevant Excel or Power BI files.
 2. Open them with Microsoft Excel or Power BI Desktop, respectively.
 3. Review the data transformations, visualizations, and insights provided in the files.
-
-### Acknowledgements
-
-Special thanks to all contributors for their dedication and hard work in completing these projects.
-
 ---
 
 This repository serves as a showcase of Sai Balaji Valluru's skills in data analysis, visualization, and effective presentation of findings. For any queries or further information, please feel free to contact [Sai Balaji Valluru](mailto:vallurusaibalaji@gmail.com).
